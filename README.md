@@ -1,5 +1,5 @@
 # 3D-printing guide
-A simple guide of how to use the 3D-printers located in the 3D-printer room. The 3D-printers are free to use for no cost for all who have access to the workspace. The 3D-printers may not be moved. Use the sections bellow to get started.
+A simple guide of how to use the 3D-printers located in the 3D-printer room. The 3D-printers are free to use for no cost for all who have access to the workspace. The 3D-printers may not be moved. Use the sections below to get started.
 
 > ### Look things up! 🔎
 > - This is not a comprehensive guide on how to do every step. If you are new to 3D-printing, please look at a couple of 3D-printer tutorials.
@@ -25,7 +25,7 @@ A simple guide of how to use the 3D-printers located in the 3D-printer room. The
 # How to print an object 📜
 - Make sure that the printer you are planning to use is not occupied. If it is, then choose another printer or wait for your turn.
 - Use the on site *Mac* computer or your own computer and start the **slicer** that matches the printer. (*see* [*printers*](#printers-️))
-    - when using your own computer you need to configure the **slicer** for the [printer](#printers-️) and **filament** you are using. Ask for help if unsure how to do this.
+    - When using your own computer you need to configure the **slicer** for the [printer](#printers-️) and **filament** you are using. Ask for help if unsure how to do this.
 - Load your model file. (*.step or .stl* format is recommended)
 - Choose an already existing print quality setting profile or customize your own.
     - Don't change printer settings unless you know what you are doing. especially g-start code.
